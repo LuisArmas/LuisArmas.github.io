@@ -1,0 +1,5 @@
+abrir el cmd
+cd C:\Users\3-user\Documents\luis-elias-final
+git add .
+git commit -m "cambio 1"
+git push origin master
